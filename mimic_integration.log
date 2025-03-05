@@ -1,0 +1,105 @@
+2025-03-04 20:49:25,329 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-04 20:49:25,329 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-04 20:49:25,331 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 20:49:25,984 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 20:49:25,993 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-04 20:49:33,670 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 20:49:33] "GET / HTTP/1.1" 200 -
+2025-03-04 20:50:32,118 - hybrid_model - INFO - Starte Diagnose für Symptome: Husten, Hohes Fieber (>39°C), Abgeschlagenheit, 
+2025-03-04 20:50:32,131 - mimic_integration - WARNING - Nicht alle benötigten MIMIC-Datendateien gefunden.
+2025-03-04 20:50:32,134 - mimic_integration - INFO - Mock-Daten für MIMIC-Integration erstellt.
+2025-03-04 20:50:32,134 - mimic_integration - INFO - MIMIC-Integration erfolgreich initialisiert.
+2025-03-04 20:50:32,134 - mimic_integration - ERROR - Fehler beim Abrufen ähnlicher Fälle: could not convert string to float: '39.0C'
+2025-03-04 20:50:32,134 - hybrid_model - INFO - MIMIC: 0 ähnliche Fälle gefunden
+2025-03-04 20:50:32,134 - hybrid_model - INFO - Sende Anfrage an OpenAI API mit Modell gpt-3.5-turbo
+2025-03-04 20:50:34,752 - hybrid_model - INFO - LLM-Integration erfolgreich
+2025-03-04 20:50:34,753 - hybrid_model - INFO - Hybride Diagnose abgeschlossen in 2.64 Sekunden
+2025-03-04 20:50:34,754 - mimic_integration - WARNING - Nicht alle benötigten MIMIC-Datendateien gefunden.
+2025-03-04 20:50:34,758 - mimic_integration - INFO - Mock-Daten für MIMIC-Integration erstellt.
+2025-03-04 20:50:34,758 - mimic_integration - INFO - MIMIC-Integration erfolgreich initialisiert.
+2025-03-04 20:50:34,758 - mimic_integration - ERROR - Fehler beim Abrufen ähnlicher Fälle: could not convert string to float: '39.0C'
+2025-03-04 20:50:34,776 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 20:50:34] "POST /diagnose HTTP/1.1" 200 -
+2025-03-04 20:51:41,339 - hybrid_model - INFO - Starte Diagnose für Symptome: Husten, Hohes Fieber (>39°C), Abgeschlagenheit, 
+2025-03-04 20:51:41,346 - mimic_integration - ERROR - Fehler beim Abrufen ähnlicher Fälle: could not convert string to float: '39.0C'
+2025-03-04 20:51:41,346 - hybrid_model - INFO - MIMIC: 0 ähnliche Fälle gefunden
+2025-03-04 20:51:41,346 - hybrid_model - INFO - Sende Anfrage an OpenAI API mit Modell gpt-3.5-turbo
+2025-03-04 20:51:43,624 - hybrid_model - INFO - LLM-Integration erfolgreich
+2025-03-04 20:51:43,624 - hybrid_model - INFO - Hybride Diagnose abgeschlossen in 2.29 Sekunden
+2025-03-04 20:51:43,624 - mimic_integration - ERROR - Fehler beim Abrufen ähnlicher Fälle: could not convert string to float: '39.0C'
+2025-03-04 20:51:43,646 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 20:51:43] "POST /diagnose HTTP/1.1" 200 -
+2025-03-04 21:08:25,700 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/synthetic_case_generator.py', reloading
+2025-03-04 21:08:25,810 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 21:08:26,799 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 21:08:26,807 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-04 21:13:35,659 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/synthetic_case_generator.py', reloading
+2025-03-04 21:13:35,765 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 21:13:36,743 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 21:13:36,751 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-05 20:39:34,769 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-05 20:39:34,770 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-05 20:39:34,774 - werkzeug - INFO -  * Restarting with stat
+2025-03-05 20:39:35,494 - werkzeug - WARNING -  * Debugger is active!
+2025-03-05 20:39:35,509 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-05 20:39:53,400 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 20:39:53] "GET / HTTP/1.1" 200 -
+2025-03-05 20:39:53,544 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 20:39:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-03-05 20:40:42,549 - app - INFO - Starte Diagnose für Symptome: Brustschmerzen, Dyspnoe, Schweißausbrüche, 
+2025-03-05 20:40:42,550 - hybrid_model - INFO - Starte Diagnose für Symptome: Brustschmerzen, Dyspnoe, Schweißausbrüche, 
+2025-03-05 20:40:42,558 - mimic_integration - WARNING - Nicht alle benötigten MIMIC-Datendateien gefunden.
+2025-03-05 20:40:42,565 - mimic_integration - INFO - Mock-Daten für MIMIC-Integration erstellt.
+2025-03-05 20:40:42,565 - mimic_integration - INFO - MIMIC-Integration erfolgreich initialisiert.
+2025-03-05 20:40:42,604 - hybrid_model - INFO - MIMIC: 5 ähnliche Fälle gefunden
+2025-03-05 20:40:42,604 - hybrid_model - INFO - Sende Anfrage an OpenAI API mit Modell gpt-3.5-turbo
+2025-03-05 20:40:43,710 - hybrid_model - ERROR - OpenAI API-Fehler: 429, {
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "insufficient_quota"
+    }
+}
+
+2025-03-05 20:40:43,710 - hybrid_model - ERROR - Fehler beim Aufruf des LLM-Service (openai): OpenAI API-Fehler: 429, {
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "insufficient_quota"
+    }
+}
+
+2025-03-05 20:40:43,711 - hybrid_model - WARNING - LLM-Fehler: Fehler bei LLM-Anfrage
+2025-03-05 20:40:43,711 - hybrid_model - INFO - Integriere Informationen aus 5 ähnlichen MIMIC-Fällen
+2025-03-05 20:40:43,712 - hybrid_model - INFO - Hybride Diagnose abgeschlossen in 1.16 Sekunden
+2025-03-05 20:40:43,712 - app - INFO - Diagnose abgeschlossen in 1.16 Sekunden
+2025-03-05 20:40:43,712 - mimic_integration - WARNING - Nicht alle benötigten MIMIC-Datendateien gefunden.
+2025-03-05 20:40:43,716 - mimic_integration - INFO - Mock-Daten für MIMIC-Integration erstellt.
+2025-03-05 20:40:43,716 - mimic_integration - INFO - MIMIC-Integration erfolgreich initialisiert.
+2025-03-05 20:40:43,771 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 20:40:43] "POST /diagnose HTTP/1.1" 200 -
+2025-03-05 20:42:00,837 - app - INFO - Starte Diagnose für Symptome: Husten, Mäßiges Fieber (38-39°C), Dyspnoe, 
+2025-03-05 20:42:00,837 - hybrid_model - INFO - Starte Diagnose für Symptome: Husten, Mäßiges Fieber (38-39°C), Dyspnoe, 
+2025-03-05 20:42:00,843 - mimic_integration - ERROR - Fehler beim Abrufen ähnlicher Fälle: could not convert string to float: '15/nl'
+2025-03-05 20:42:00,843 - hybrid_model - INFO - MIMIC: 0 ähnliche Fälle gefunden
+2025-03-05 20:42:00,844 - hybrid_model - INFO - Sende Anfrage an OpenAI API mit Modell gpt-4
+2025-03-05 20:42:01,190 - hybrid_model - ERROR - OpenAI API-Fehler: 429, {
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "insufficient_quota"
+    }
+}
+
+2025-03-05 20:42:01,191 - hybrid_model - ERROR - Fehler beim Aufruf des LLM-Service (openai): OpenAI API-Fehler: 429, {
+    "error": {
+        "message": "You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.",
+        "type": "insufficient_quota",
+        "param": null,
+        "code": "insufficient_quota"
+    }
+}
+
+2025-03-05 20:42:01,192 - hybrid_model - WARNING - LLM-Fehler: Fehler bei LLM-Anfrage
+2025-03-05 20:42:01,192 - hybrid_model - INFO - Hybride Diagnose abgeschlossen in 0.35 Sekunden
+2025-03-05 20:42:01,192 - app - INFO - Diagnose abgeschlossen in 0.36 Sekunden
+2025-03-05 20:42:01,260 - werkzeug - INFO - 127.0.0.1 - - [05/Mar/2025 20:42:01] "POST /diagnose HTTP/1.1" 200 -

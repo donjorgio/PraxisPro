@@ -1,0 +1,110 @@
+2025-03-03 15:05:14,846 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-03 15:05:14,846 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 15:05:14,850 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 15:05:15,714 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 15:05:15,736 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-03 15:05:34,123 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 15:05:34] "GET / HTTP/1.1" 200 -
+2025-03-03 15:06:45,071 - hybrid_model - INFO - Starte Diagnose für Symptome: Kindliches Fieber, Pädiatrischer Husten, Bellender Husten, 
+2025-03-03 15:06:47,373 - hybrid_model - INFO - Hybride Diagnose abgeschlossen in 2.30 Sekunden
+2025-03-03 15:06:47,392 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 15:06:47] "POST /diagnose HTTP/1.1" 200 -
+2025-03-03 15:07:40,195 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 15:07:40] "POST /chat HTTP/1.1" 200 -
+2025-03-03 15:25:48,209 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 15:25:48] "GET / HTTP/1.1" 200 -
+2025-03-03 15:26:26,347 - hybrid_model - INFO - Starte Diagnose für Symptome: Kindliche Schlafprobleme, Bellender Husten, Fieber bei Kleinkindern, 
+2025-03-03 15:26:28,282 - hybrid_model - INFO - Hybride Diagnose abgeschlossen in 1.93 Sekunden
+2025-03-03 15:26:28,295 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 15:26:28] "POST /diagnose HTTP/1.1" 200 -
+2025-03-03 15:30:23,228 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 15:30:23] "GET / HTTP/1.1" 200 -
+2025-03-03 15:31:17,416 - hybrid_model - INFO - Starte Diagnose für Symptome: Kreuzschmerzen, 
+2025-03-03 15:31:19,302 - hybrid_model - INFO - Hybride Diagnose abgeschlossen in 1.89 Sekunden
+2025-03-03 15:31:19,315 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 15:31:19] "POST /diagnose HTTP/1.1" 200 -
+2025-03-03 15:32:00,698 - hybrid_model - INFO - Starte Diagnose für Symptome: Kreuzschmerzen, 
+2025-03-03 15:32:02,856 - hybrid_model - INFO - Hybride Diagnose abgeschlossen in 2.16 Sekunden
+2025-03-03 15:32:02,873 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 15:32:02] "POST /diagnose HTTP/1.1" 200 -
+2025-03-03 15:33:29,423 - hybrid_model - INFO - Starte Diagnose für Symptome: Dysurie, Pollakisurie, Akuter Flankenschmerz, 
+2025-03-03 15:33:31,242 - hybrid_model - INFO - Hybride Diagnose abgeschlossen in 1.82 Sekunden
+2025-03-03 15:33:31,255 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 15:33:31] "POST /diagnose HTTP/1.1" 200 -
+2025-03-03 15:45:18,865 - hybrid_model - INFO - Starte Diagnose für Symptome: Starke Rückenschmerzen, Lumbalgie, 
+2025-03-03 15:45:21,478 - hybrid_model - INFO - Hybride Diagnose abgeschlossen in 2.61 Sekunden
+2025-03-03 15:45:21,497 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 15:45:21] "POST /diagnose HTTP/1.1" 200 -
+2025-03-03 18:06:49,047 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/hybrid_model.py', reloading
+2025-03-03 18:06:49,137 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 18:06:50,153 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 18:06:50,163 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-03 18:09:57,574 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/hybrid_model.py', reloading
+2025-03-03 18:09:57,672 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 18:09:58,584 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 18:09:58,597 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-03 18:10:34,250 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/hybrid_model.py', reloading
+2025-03-03 18:10:34,349 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 18:10:35,086 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 18:10:35,099 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-03 18:12:10,869 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/hybrid_model.py', reloading
+2025-03-03 18:12:10,970 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 18:12:11,902 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 18:12:11,912 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-03 18:13:13,447 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-03 18:13:13,447 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 18:13:13,448 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 18:13:14,159 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 18:13:14,168 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-03 18:13:23,071 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 18:13:23] "GET / HTTP/1.1" 200 -
+2025-03-03 18:14:25,007 - hybrid_model - INFO - Starte Diagnose für Symptome: Dysurie, Pollakisurie, Hohes Fieber (>39°C), 
+2025-03-03 18:14:28,669 - hybrid_model - INFO - Hybride Diagnose abgeschlossen in 3.66 Sekunden
+2025-03-03 18:14:28,684 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 18:14:28] "POST /diagnose HTTP/1.1" 200 -
+2025-03-03 18:20:23,382 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/hybrid_model.py', reloading
+2025-03-03 18:20:23,472 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 18:20:24,659 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 18:20:24,671 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-03 18:20:26,595 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 18:20:26] "[31m[1mGET /diagnose HTTP/1.1[0m" 405 -
+2025-03-03 18:20:30,866 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 18:20:30] "GET / HTTP/1.1" 200 -
+2025-03-03 18:21:23,794 - hybrid_model - WARNING - OPENAI_API_KEY nicht gefunden. LLM-Funktionen werden nicht verfügbar sein.
+2025-03-03 18:21:23,822 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-03 18:21:23,823 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 18:21:23,823 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 18:21:24,508 - hybrid_model - WARNING - OPENAI_API_KEY nicht gefunden. LLM-Funktionen werden nicht verfügbar sein.
+2025-03-03 18:21:24,533 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 18:21:24,544 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-03 18:21:31,497 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 18:21:31] "GET / HTTP/1.1" 200 -
+2025-03-03 18:22:43,993 - hybrid_model - INFO - Starte Diagnose für Symptome: Juckender Ausschlag, Dyspnoe, Quaddelausschlag, 
+2025-03-03 18:22:44,002 - hybrid_model - INFO - Diagnose nur mit ML-Modell (kein API-Schlüssel)
+2025-03-03 18:22:44,018 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 18:22:44] "POST /diagnose HTTP/1.1" 200 -
+2025-03-03 18:32:53,593 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/hybrid_model.py', reloading
+2025-03-03 18:32:53,687 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 18:32:54,672 - hybrid_model - WARNING - OPENAI_API_KEY nicht gefunden. LLM-Funktionen werden nicht verfügbar sein.
+2025-03-03 18:32:54,698 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 18:32:54,708 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-03 21:27:35,227 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/app.py', reloading
+2025-03-03 21:27:35,337 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 22:01:38,428 - hybrid_model - WARNING - OPENAI_API_KEY nicht gefunden. LLM-Funktionen werden nicht verfügbar sein.
+2025-03-03 22:01:38,467 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-03-03 22:01:38,467 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-03-03 22:01:38,468 - werkzeug - INFO -  * Restarting with stat
+2025-03-03 22:01:39,238 - hybrid_model - WARNING - OPENAI_API_KEY nicht gefunden. LLM-Funktionen werden nicht verfügbar sein.
+2025-03-03 22:01:39,259 - werkzeug - WARNING -  * Debugger is active!
+2025-03-03 22:01:39,270 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-03 22:01:50,683 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:01:50] "GET / HTTP/1.1" 200 -
+2025-03-03 22:04:25,293 - hybrid_model - INFO - Starte Diagnose für Symptome: Husten, Fieber, Dyspnoe, 
+2025-03-03 22:04:25,302 - hybrid_model - INFO - Diagnose nur mit ML-Modell (kein API-Schlüssel)
+2025-03-03 22:04:25,321 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:04:25] "POST /diagnose HTTP/1.1" 200 -
+2025-03-03 22:05:04,661 - hybrid_model - INFO - Starte Diagnose für Symptome: Husten, Fieber, Dyspnoe, 
+2025-03-03 22:05:04,667 - hybrid_model - INFO - Diagnose nur mit ML-Modell (kein API-Schlüssel)
+2025-03-03 22:05:04,693 - werkzeug - INFO - 127.0.0.1 - - [03/Mar/2025 22:05:04] "POST /diagnose HTTP/1.1" 200 -
+2025-03-04 18:41:43,167 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 18:41:43] "GET / HTTP/1.1" 200 -
+2025-03-04 18:43:58,985 - hybrid_model - INFO - Starte Diagnose für Symptome: Ausstrahlende Brustschmerzen, Schweißausbrüche, Dyspnoe, 
+2025-03-04 18:43:59,001 - hybrid_model - INFO - Diagnose nur mit ML-Modell (kein API-Schlüssel)
+2025-03-04 18:43:59,017 - werkzeug - INFO - 127.0.0.1 - - [04/Mar/2025 18:43:59] "POST /diagnose HTTP/1.1" 200 -
+2025-03-04 19:49:03,225 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/core.py', reloading
+2025-03-04 19:49:03,372 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 19:49:16,477 - hybrid_model - WARNING - OPENAI_API_KEY nicht gefunden. LLM-Funktionen werden nicht verfügbar sein.
+2025-03-04 19:49:16,571 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 19:49:16,588 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-04 19:50:45,080 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/mimic_integration.py', reloading
+2025-03-04 19:50:45,180 - werkzeug - INFO -  * Restarting with stat
+2025-03-04 19:50:46,019 - hybrid_model - WARNING - OPENAI_API_KEY nicht gefunden. LLM-Funktionen werden nicht verfügbar sein.
+2025-03-04 19:50:46,036 - werkzeug - WARNING -  * Debugger is active!
+2025-03-04 19:50:46,044 - werkzeug - INFO -  * Debugger PIN: 275-136-699
+2025-03-04 20:26:41,165 - werkzeug - INFO -  * Detected change in '/Users/patrickjorge/Documents/PraxisPro/hybrid_model.py', reloading
+2025-03-04 20:26:41,284 - werkzeug - INFO -  * Restarting with stat

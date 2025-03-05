@@ -1,0 +1,31 @@
+symptome,vitals,diagnose,id
+"Säuglingshusten,Fieber >38°C,Atemnot","HR:130,T:38.5,RR:45",RSV-Bronchiolitis,1
+"Bellender Husten,Heiserkeit,Fieber >38°C","HR:120,T:38.7,SpO2:94",Pseudokrupp,2
+"Säuglingshusten,Fieber >38°C,Schnupfen","HR:125,T:38.3,RR:40",Virale Atemwegsinfektion,3
+"Kindliches Fieber,Husten,Pfeifen beim Atmen","HR:130,T:38.6,SpO2:92",Bronchiolitis,4
+"Hohes Fieber,Schluckbeschwerden,Speichelfluss","HR:140,T:39.5,SpO2:91",Epiglottitis,5
+"Fieber >38°C,Ohrenschmerzen,Weinen","HR:125,T:38.4,BP:100/65",Akute Otitis media,6
+"Durchfall,Erbrechen,Fieber >38°C","HR:120,T:38.3,BP:95/60",Gastroenteritis bei Kindern,7
+"Husten,Schnupfen,Halsschmerzen bei Kindern","HR:110,T:37.8,BP:100/70",Virale Atemwegsinfektion,8
+"Fieber >39°C,Hautausschlag,Unwohlsein","HR:130,T:39.2,BP:100/65",Kinderkrankheit,9
+"Kindliches Fieber,Kopfschmerzen,Lichtempfindlichkeit","HR:125,T:38.9,BP:110/70",Meningitis,10
+"Fieber >38°C,Ohrenschmerzen,Erbrechen","HR:120,T:38.5,BP:95/60",Akute Otitis media,11
+"Säuglingshusten,Atemnot,Fieber >38°C","HR:135,T:38.4,SpO2:91",Bronchopneumonie bei Säuglingen,12
+"Fieber >38°C,Hautausschlag (masernähnlich),Husten","HR:120,T:38.6,BP:100/65",Masern,13
+"Fieber >38°C,Halsschmerzen,Hautausschlag","HR:115,T:38.4,BP:105/70",Scharlach,14
+"Fieber >39°C,Erbrechen,Nackenstarre","HR:130,T:39.3,BP:100/60",Meningitis,15
+"Säuglingshusten,Fieber >38°C,Atemnot","HR:130,T:38.5,RR:45",RSV-Bronchiolitis,16
+"Bellender Husten,Heiserkeit,Fieber >38°C","HR:120,T:38.7,SpO2:94",Pseudokrupp,17
+"Säuglingshusten,Fieber >38°C,Schnupfen","HR:125,T:38.3,RR:40",Virale Atemwegsinfektion,18
+"Kindliches Fieber,Husten,Pfeifen beim Atmen","HR:130,T:38.6,SpO2:92",Bronchiolitis,19
+"Hohes Fieber,Schluckbeschwerden,Speichelfluss","HR:140,T:39.5,SpO2:91",Epiglottitis,20
+"Fieber >38°C,Ohrenschmerzen,Weinen","HR:125,T:38.4,BP:100/65",Akute Otitis media,21
+"Durchfall,Erbrechen,Fieber >38°C","HR:120,T:38.3,BP:95/60",Gastroenteritis bei Kindern,22
+"Husten,Schnupfen,Halsschmerzen bei Kindern","HR:110,T:37.8,BP:100/70",Virale Atemwegsinfektion,23
+"Fieber >39°C,Hautausschlag,Unwohlsein","HR:130,T:39.2,BP:100/65",Kinderkrankheit,24
+"Kindliches Fieber,Kopfschmerzen,Lichtempfindlichkeit","HR:125,T:38.9,BP:110/70",Meningitis,25
+"Fieber >38°C,Ohrenschmerzen,Erbrechen","HR:120,T:38.5,BP:95/60",Akute Otitis media,26
+"Säuglingshusten,Atemnot,Fieber >38°C","HR:135,T:38.4,SpO2:91",Bronchopneumonie bei Säuglingen,27
+"Fieber >38°C,Hautausschlag (masernähnlich),Husten","HR:120,T:38.6,BP:100/65",Masern,28
+"Fieber >38°C,Halsschmerzen,Hautausschlag","HR:115,T:38.4,BP:105/70",Scharlach,29
+"Fieber >39°C,Erbrechen,Nackenstarre","HR:130,T:39.3,BP:100/60",Meningitis,30
